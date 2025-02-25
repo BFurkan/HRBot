@@ -1,4 +1,4 @@
-# HRBot -  [DevPost](https://devpost.com/software/hero-zn9prh#updates)
+# HRBot -  [DevPost](https://devpost.com/software/hero-zn9prh)
 GSoft Sponsor Challenge Winner of CONUHACKS VII
 
 Revolutionizing Onboarding and Employee Sentiment Tracking
